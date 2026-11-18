@@ -1,6 +1,6 @@
 # Resume Kit — Honest Resume Builder (Claude Plugin)
 
-**Status:** Pilot (pre-1.0, a small group of real job seekers) · **Stack:** Claude Cowork plugin (skills), Markdown templates, Python helper scripts, Word export · **Role:** Product owner and architect. I wrote the requirements (PRD), designed the workflow, directed Claude Code to build it, and ran every install and retest myself.
+**Status:** Pilot (pre-1.0, a small group of real job seekers) · **Stack:** Claude Cowork plugin (skills), Markdown templates, Python helper scripts, Word export · **Role:** Product owner and architect. I scoped the requirements with Claude, designed the workflow, directed Claude Code to build it, and ran every install and retest myself.
 
 > Source is private during the pilot. All examples use a fictional person, "Jane Doe, Acme Corp".
 
