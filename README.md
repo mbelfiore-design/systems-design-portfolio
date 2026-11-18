@@ -15,4 +15,4 @@ IT infrastructure lead who finds where work breaks and builds the fix with AI. I
 
 **[How I work →](how-i-work.md)**
 
-**Core skills shown:** systems architecture · network monitoring (UniFi) · CI/CD with GitHub Actions · Python and TypeScript · AI governance and human-in-the-loop design · incident analysis · QA and change control · secrets and PII handling
+**Core skills shown:** systems architecture · network monitoring (UniFi) · automated tests in GitHub Actions · AI-directed development (Python) · AI guardrails and human-in-the-loop design · incident analysis · QA and change control · secrets and PII handling
